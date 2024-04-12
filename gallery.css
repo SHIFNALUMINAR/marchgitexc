@@ -1,0 +1,57 @@
+.c{
+    width: 23%;
+    background-color: black;
+    color: white;
+    border: solid white 7px;
+    float: left;
+    padding: 10px;
+    height: 518px;
+}
+
+img{
+    width: 100%;
+    height: 300px;
+}
+h1{
+    text-align: center;
+}
+
+#title{
+    color: rebeccapurple;
+}
+span{
+    color: palevioletred;
+}
+
+.c:hover{
+    background-color: white;
+    color: black;
+}
+
+button{
+    height: 50px;
+    width: 120px;
+    border-radius: 30px;
+    background-color: rgb(89, 4, 89);
+    color: white;
+}
+
+button:hover{
+    background-color: white;
+    color: rgb(89, 4, 89) ;
+    border: solid  rgb(89, 4, 89);
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+/* book gallery
+-----------------
+book name
+cover image
+author
+desc
+read more - link
+ */

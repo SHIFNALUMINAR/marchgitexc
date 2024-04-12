@@ -1,0 +1,18 @@
+git & gitHub
+-------------
+
+git - tool 
+GitHub - website - version control
+
+
+push - local repo to remote repo - upload new project and new updations
+clone - remote repo to local repo - download exact copy of project
+pull - remote repo to local repo - download new updations
+
+
+
+github storage - remote repository
+system storage - local repository
+
+push
+----
